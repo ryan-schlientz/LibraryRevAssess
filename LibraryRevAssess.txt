@@ -1,0 +1,32 @@
+
+Library - RevAssess 2.0 Instructions:
+
+- Open the RDP file provided to you. Enter password provided to connect to your
+Windows EC2.
+
+- Once connected, open on STS and confirm your instance of the project: BasicLibrary,
+exists. The project should have:
+	- All necessary dependencies
+	- Several pre-made packages and source folders
+	- A few pre-made classes including the Book model and its respective
+	Repository. Your MasterServlet and RequestHelper have already been included
+	as well.
+	- Test files to test your Book model and Repo.
+		- The BooRepoTest should be commented out and remain that way until you
+		are ready to test your RepoImpl Class.
+
+
+Objectives:
+	- Configure your application appropriately to work with Hibernate.
+		- The dependency is already added.
+		- Please configure the application to your own RDS.
+		- Make sure your RDS Securuity Group is open to all IPs.
+	
+
+
+
+
+
+
+
+
